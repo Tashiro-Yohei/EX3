@@ -4,3 +4,4 @@ pandas
 python-pptx
 python-docx
 beautifulsoup4
+plotly
