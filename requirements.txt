@@ -1,0 +1,6 @@
+google-genai
+streamlit
+pandas
+python-pptx
+python-docx
+beautifulsoup4
